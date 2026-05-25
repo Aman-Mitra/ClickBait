@@ -8,7 +8,7 @@ Screen recorders can add click effects after the fact. ClickBait is for the mome
 
 Icon preview:
 
-![ClickBait icon](/C:/Users/User/Documents/ClickBait/windows/assets/ClickBait.png)
+![ClickBait icon](windows/assets/ClickBait.png)
 
 ## Use Cases
 
